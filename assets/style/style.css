@@ -1,0 +1,29 @@
+.main {
+  display: flex;
+  justify-content: center;
+
+  background-color: #576f35;
+  color: white;
+}
+
+.main__wrapper {
+}
+
+.block {
+  max-width: 1200px;
+  min-width: 300px;
+}
+
+.main__section {
+  padding: 50px;
+  min-height: 800px;
+}
+
+.main__img {
+  height: 200px;
+  width: 200px;
+}
+
+.button {
+  background-color: #feda85;
+}
